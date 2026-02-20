@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as r,ah as l}from"./chunks/framework.Bcr5LfWq.js";const p=JSON.parse('{"title":"灵掌机器人技术文档库","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"};function o(n,a,s,d,h,c){return r(),i("div",null,[...a[0]||(a[0]=[l("",8)])])}const f=e(t,[["render",o]]);export{p as __pageData,f as default};
